@@ -8,9 +8,9 @@
 <img alt="Java" src="https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo=java&ogoColor=white"/>
 
 
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> 
 
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
 
 
 
@@ -19,8 +19,9 @@
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/baba-shankar-s-n-7874a619b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://twitter.com/BabaShankar2310"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p
+<a href="babashankar.github.io/Bootstrap-Protfolio/"><img src="https://img.shields.io/badge/PortfolioWebsite-green?style=for-the-badge&logo=PortfolioWebsite" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 
 
